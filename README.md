@@ -4,9 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Chavan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Manager%20%7C%20Enterprise%20Data%20%26%20Agentic%20AI&descSize=18&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
 
 <!-- TYPING INTRO -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=4A9EDB&center=true&vCenter=true&width=700&lines=Building+enterprise+data+platforms+at+Goldman+Sachs;Shipped+MCP-powered+agentic+AI+interfaces;Apache+Iceberg+%7C+Kafka+%7C+RAG+%7C+Data+Governance;Writing+about+AI+%26+data+products+on+Substack+%E2%80%94+74%25+open+rate" alt="Typing SVG" />
-</a>
 
 <br/>
 
