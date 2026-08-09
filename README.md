@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shubham%20Chavan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Product%20Manager%20%7C%20Enterprise%20Data%20%26%20Agentic%20AI&descSize=18&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
-
 <!-- TYPING INTRO -->
 
 <br/>
